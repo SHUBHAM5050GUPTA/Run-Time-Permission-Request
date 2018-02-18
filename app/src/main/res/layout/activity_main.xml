@@ -13,11 +13,15 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center_horizontal"
         android:id="@+id/button_sms"
         android:text="SMS PERMISSION"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
         android:id="@+id/textview_sms"/>
     </LinearLayout>
 
